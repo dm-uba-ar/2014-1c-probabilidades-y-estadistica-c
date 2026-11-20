@@ -1,8 +1,4 @@
-# Probabilidad y Estadística (Computación) — Primer cuatrimestre de 2014
-
-## Equipo docente
-
-- **Clases teóricas:** Román Sasyk
+# Probabilidades y Estadística C — Primer cuatrimestre de 2014
 
 ## Prácticas
 
